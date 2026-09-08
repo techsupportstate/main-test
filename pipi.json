@@ -1190,13 +1190,13 @@
 {
 "code": "MS9811",
 "name": "Ethan Lee",
-"photo": "https://i.ibb.co/S4k06cHr/ethan-ford.jpg",
+"photo": "https://i.ibb.co/BVwX30p6/ethan.jpg",
 "department": "Anti Hacking Department"
 },
 {
 "code": "AP9811",
 "name": "Ethan Lee",
-"photo": "https://i.ibb.co/S4k06cHr/ethan-ford.jpg",
+"photo": "https://i.ibb.co/BVwX30p6/ethan.jpg",
 "department": "Anti Hacking Department"
 },
 {
@@ -1296,6 +1296,24 @@
     "department": "Microsoft Certified Technician"
   },
   {
+    "code": "MS10003",
+    "name": "Max Thompson",
+    "photo": "https://i.ibb.co/M5KfVgPV/max.jpg",
+    "department": "Microsoft Certified Technician"
+  },
+  {
+    "code": "MS10004",
+    "name": "Dhruv Malik",
+    "photo": "https://i.ibb.co/vCnz3tv5/dhruv.jpg",
+    "department": "Senior Software Engineer"
+  },
+   {
+    "code": "MS10005",
+    "name": "Selena Smith",
+    "photo": "https://i.ibb.co/LhPMZtym/salena.jpg",
+    "department": "Microsoft Certified Technician"
+  },
+  {
     "code": "AP10001",
     "name": "kash wright",
     "photo": "https://i.ibb.co/kYxtT78/cashimage.jpg",
@@ -1305,6 +1323,24 @@
     "code": "AP10002",
     "name": "Clara Miller",
     "photo": "https://i.ibb.co/example/agent2.jpg",
+    "department": "Apple Certified Technician"
+  },
+  {
+    "code": "AP10003",
+    "name": "Max Thompson",
+    "photo": "https://i.ibb.co/M5KfVgPV/max.jpg",
+    "department": "Apple Certified Technician"
+  },
+  {
+    "code": "AP10004",
+    "name": "Dhruv Malik",
+    "photo": "https://i.ibb.co/vCnz3tv5/dhruv.jpg",
+    "department": "Apple Software Engineer"
+  },
+   {
+    "code": "AP10005",
+    "name": "Selena Smith",
+    "photo": "https://i.ibb.co/LhPMZtym/salena.jpg",
     "department": "Apple Certified Technician"
   }
 
