@@ -1313,6 +1313,12 @@
     "photo": "https://i.ibb.co/LhPMZtym/salena.jpg",
     "department": "Microsoft Certified Technician"
   },
+   {
+    "code": "MS10006",
+    "name": "Jack Walker",
+    "photo": "https://i.ibb.co/zHbwx2B4/jackbhai.jpg",
+    "department": "Microsoft Senior Technican"
+  },
   {
     "code": "AP10001",
     "name": "kash wright",
@@ -1342,6 +1348,12 @@
     "name": "Selena Smith",
     "photo": "https://i.ibb.co/LhPMZtym/salena.jpg",
     "department": "Apple Certified Technician"
+  },
+ {
+    "code": "AP10006",
+    "name": "Jack Walker",
+    "photo": "https://i.ibb.co/zHbwx2B4/jackbhai.jpg",
+    "department": "Apple Senior Technican"
   }
 
 ]
